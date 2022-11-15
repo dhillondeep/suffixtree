@@ -1,8 +1,11 @@
 # Generalized Suffix Tree
+This is a fork of https://github.com/ljfuyuan/suffixtree. This fork exposes `GeneralizedSufficTree` struct
+and improves testing.
+
 A Go implementation of a Generalized Suffix Tree using Ukkonen's algorithm
 
-The package just translate from Alessandro Bahgat Shehata's java version to golang and do some optimization  
-For more details, you should look at [abahgat/suffixtree](https://github.com/abahgat/suffixtree/) 
+The package just translate from Alessandro Bahgat Shehata's java version to golang and do some optimization
+For more details, you should look at [abahgat/suffixtree](https://github.com/abahgat/suffixtree/)
 
 ## Usage
 
